@@ -2,3 +2,4 @@
 My first Parallax Website about Web Development 
 <img src="JS.png">
 <img src="Syntax.jpg">
+<img src="web_development_icon-300x300.png" width="300px" height="300px"> 
