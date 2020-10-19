@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+h1 {
+    margin-bottom: 300px;
+    margin-top: 320px;
+    border: 1px solid black;
+    width: 380px;
+    margin-left: 515px;
+    color: white;
+    background-color: black;
+    font-family: Ubuntu, sans-serif;
+    font-size: 30px;
+    opacity: 100%;
+}
+#img {
+    width: 100%;
+    border: 1px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    opacity: 0.7;
+}
+#intro {
+    border: 1px solid white;
+    margin-bottom: 00px;
+    padding-top: 40px;
+    background-color: #f4f4f4;
+    font-family: Lato;
+    text-align: justify;
+    padding-bottom: 40px;
+    line-height: 1.7;
+}
+#img1 {
+    border: 1px solid white;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+}
+#html {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border: 1px solid white;
+    background-color: #f4f4f4;
+    font-family: Lato;
+    text-align: justify;
+    line-height: 1.7;
+}
+#img2 {
+    border: 1px solid white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+#css {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border: 1px solid white;
+    background-color: #f4f4f4;
+    font-family: Lato;
+    text-align: justify;
+    padding-left: 80px;
+    padding-right: 80px;
+    line-height: 1.7;
+}
+#img3 {
+    border: 1px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+#js {
+    border: 1px solid white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f4f4f4;
+    text-align: justify;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family: Lato;
+    line-height: 1.7;
+}
+#back {
+    font-family: Ubuntu;
+}
+a {
+    text-decoration: none;
+}
+#foot {
+    border: 1px solid white;
+    margin-top: 60px;
+    padding-top: 30px;
+    background-color: #f4f4f4;
+    font-family: Lato;
+}
+#syntax {
+    width: 300px;
+    margin-left: 530px;
+}
